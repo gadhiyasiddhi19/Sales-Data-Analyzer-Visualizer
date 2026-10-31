@@ -1,0 +1,52 @@
+SalesID,Product,Region,Sales,Profit,Quantity,Date
+101,Product A,North,500,120,5,1/15/2022
+102,Product B,East,600,150,6,1/20/2022
+103,Product C,West Coast,700,180,7,2/5/2022
+104,Product D,South,800,210,8,2/18/2022
+105,Product E,Central,550,130,5,3/2/2022
+106,Product A,East,900,250,9,3/15/2022
+107,Product B,North,450,100,4,4/1/2022
+108,Product C,South,750,190,7,4/12/2022
+109,Product D,West Coast,650,160,6,5/8/2022
+110,Product E,Central,720,175,7,5/21/2022
+111,Product A,South,820,220,8,6/3/2022
+112,Product B,East,580,140,5,6/19/2022
+113,Product C,North,690,170,6,7/7/2022
+114,Product D,Central,940,260,9,7/22/2022
+115,Product E,West Coast,610,145,6,8/11/2022
+116,Product A,Central,780,200,7,8/25/2022
+117,Product B,South,530,125,5,9/9/2022
+118,Product C,East,860,230,8,9/17/2022
+119,Product D,North,710,180,7,10/4/2022
+120,Product E,South,670,155,6,10/16/2022
+121,Product A,West Coast,990,280,10,11/2/2022
+122,Product B,Central,620,150,6,11/14/2022
+123,Product C,South,740,185,7,12/1/2022
+124,Product D,East,880,240,8,12/19/2022
+125,Product E,North,560,135,5,1/8/2023
+126,Product A,East,1050,300,10,1/23/2023
+127,Product B,West Coast,680,165,6,2/10/2023
+128,Product C,Central,790,205,8,2/26/2023
+129,Product D,South,920,255,9,3/13/2023
+130,Product E,East,640,155,6,3/29/2023
+131,Product A,North,870,235,8,4/6/2023
+132,Product B,South,590,145,5,4/21/2023
+133,Product C,West Coast,810,215,8,5/9/2023
+134,Product D,Central,970,275,9,5/24/2023
+135,Product E,North,700,170,7,6/12/2023
+136,Product A,South,930,260,9,6/28/2023
+137,Product B,East,,160,6,7/5/2023
+138,Product C,Central,850,,8,7/19/2023
+139,Product D,,760,195,7,8/3/2023
+140,Product E,West Coast,680,165,,8/17/2023
+141,Product A,East,1020,290,10,
+142,Product B,North,610,150,6,9/14/2023
+143,Product C,South,890,245,9,10/2/2023
+144,Product D,West Coast,830,220,8,10/18/2023
+145,Product E,Central,750,185,7,11/6/2023
+146,Product A,North,500,120,5,1/15/2022
+147,Product B,South,720,180,7,11/21/2023
+148,Product C,East,960,270,9,12/5/2023
+149,Product D,Central,690,170,6,12/19/2023
+150,Product E,West Coast,880,240,8,12/28/2023
+102,Product B,East,600,150,6,1/20/2022
